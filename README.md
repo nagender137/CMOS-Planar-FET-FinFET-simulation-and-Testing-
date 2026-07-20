@@ -1,7 +1,7 @@
 # CMOS, Planar FET, FinFET Simulation and Testing
 
 🔬 CMOS Fabrication & TCAD Simulation Portfolio
-Semiconductor Device Fabrication • Sentaurus TCAD • SEMulator3D Virtual Fabrication • Teaching Assistant
+Semiconductor Device Fabrication • Sentaurus TCAD • SEMulator3D Virtual Fabrication • Teaching Assistant, Bundelkhand University Jhansi (Public University, India)
 India Semiconductor Workforce Development Program
 
 Status: Ongoing 🟢
