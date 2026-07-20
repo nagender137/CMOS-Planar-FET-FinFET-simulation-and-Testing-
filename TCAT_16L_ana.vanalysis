@@ -1,0 +1,1889 @@
+
+<___Document DocApp="SEMulator3D" DocBuildTag="" DocType="vanalysis" DocVersion="11.0.0.0">
+
+  <___Properties isEnable="true">
+    <masterPassword ___text=""/>
+    <filePassword ___text="" readonly="true"/>
+    <fileAccessRestriction ___text="" readonly="true"/>
+    <processFile RelativeFileName="./TCAT_16L.vproc" ___text="C:/Simulator3d Projects/Assignment_10_3DNAND_16L/FW_ 3D NAND 16 L model/3DNAND_16L_v11/TCAT_16L.vproc"/>
+  </___Properties>
+
+  <___CustomConfiguration/>
+
+  <___Parser UUID="c3cc29d0-c897-4abc-b187-ffae31b56651" ___Name="Variables" ___Type="VariableRoot" isExpanded="true">
+    <___Item Automatic="true" UUID="b8a6f507-e51f-45a7-9add-df8cabc8cdc3" ___Name="Auto" ___Type="VariableGroup">
+      <___Item Automatic="true" UUID="2cbae683-3252-4b81-98d1-654d0e0728de" ___Name="CD_CHANNEL_1_BOT" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="93588756-1d7d-4969-92e5-ce6ff51b22c8" ___Name="CD_CHANNEL_1_MID" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="59d2f673-601d-45a6-a318-ef973224ed56" ___Name="CD_CHANNEL_1_TOP" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="18545346-19c7-43b4-8e65-8600986a1a77" ___Name="CD_CH_ETCH_BOT" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="c123e798-4411-4039-9ea2-f3b4278ed9a9" ___Name="CD_CH_ETCH_MID" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="b84d49f9-4a48-4b80-a428-b2889ea717d2" ___Name="CD_CH_ETCH_TOP" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="efb8cd08-b5da-4a89-bd33-cb3bf741b280" ___Name="CD_CONTACT_SSL_BOT" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="a7f5ef69-548c-4d75-a394-8cf291262bfa" ___Name="CD_CONTACT_SSL_MID" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="88e37393-dc1e-4f50-b08e-7b27cc3ad87e" ___Name="CD_CONTACT_SSL_TOP" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="1e88685f-fba3-4a94-93ce-828511bb1996" ___Name="CD_WLCUT2_1_BOT" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="3c363d80-1821-4924-8817-08a4edb87a50" ___Name="CD_WLCUT2_1_MID" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="6219f186-8ec3-491a-b476-7cf24c6aa8b7" ___Name="CD_WLCUT2_1_TOP" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="2bc7d73e-fb04-49bd-84ad-f7b55f4e885e" ___Name="LoopIndex" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="0a682564-83db-444d-9442-b5d5257c77f0" ___Name="ModelResolution" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="1e860907-9419-4d3f-b92b-bd5e97b87f1b" ___Name="NetListAfterM1" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="23a6325d-39de-4ff0-89d4-76f9e243c6ef" ___Name="NetListAfterVia" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="868df20a-5a5e-4c5a-a0fd-523cd7f41293" ___Name="THK_M1_LTO_Dep" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="da7a81c4-3a8c-4ad8-ab68-94a00c105300" ___Name="THK_M1_NBlok_Dep" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="c3af5bdc-93e2-4f35-9eb9-34f7c5fce1ad" ___Name="THK_M1_SiCOH_Dep" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="226345e0-5810-4c42-818a-b2de0404bd8b" ___Name="ON" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="bb099833-56ef-499c-952f-7f419e195beb" ___Name="SiNThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="36" ___lastKnownValue="36.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="a803f6fd-aba7-4836-9c2f-860a50d65cfe" ___Name="OxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="20" ___lastKnownValue="20.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="6c9548f9-7773-49a1-b616-dd83f3a205ec" ___Name="GSLBotOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="10" ___lastKnownValue="10.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="0976d43e-3986-4792-8ce6-3be71dd62330" ___Name="GSLTopOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="30" ___lastKnownValue="30.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="acbaae45-35a4-4e7b-943e-53999f5c53e3" ___Name="USLBotOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="10" ___lastKnownValue="10.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="29344157-aa75-4068-8144-cf14f2cc7baa" ___Name="USLTopOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="38" ___lastKnownValue="38.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="cc1829ac-9ce8-4ca9-b124-dec81716fad1" ___Name="NumLayers" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="16" ___lastKnownValue="16.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="7f2cf3e2-8424-4191-bc77-233a13597159" ___Name="Channel" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="f1a0df05-fcf8-4767-b2b3-e1d81fa585d6" ___Name="cHMThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="300" ___lastKnownValue="300.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="366d3996-4d3e-4043-a1d9-e0869d58a3c4" ___Name="PolyThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="9" ___lastKnownValue="9.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="f12e6f59-5d8c-48e5-a0cf-87fee04751a4" ___Name="DielOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="85" ___lastKnownValue="85.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="de080090-4918-4199-b67b-02d9aa786eaf" ___Name="Poly2Thk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="100" ___lastKnownValue="100.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="64d9d1a8-f64c-4e7e-a0fc-eaff896ad659" ___Name="HiKThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="3" ___lastKnownValue="3.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="b7a4f49f-62c2-43bd-b0c8-da9a56817865" ___Name="TrapSiNThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="4.5" ___lastKnownValue="4.5" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="d901bf73-2df8-470e-8ffd-e537ae525ed3" ___Name="TunnelOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="4.5" ___lastKnownValue="4.5" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="cb101d9b-892d-48e2-849e-cb238fdee884" ___Name="TopOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="3" ___lastKnownValue="3.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="aaa80d37-3952-4137-b5ca-89d26e4fc698" ___Name="Litho" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="9df2012b-f233-4bb0-8f23-1fa07401af97" ___Name="ARCThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="20" ___lastKnownValue="20.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="8b922ee8-2936-4628-9b74-e4ae9617d159" ___Name="PR1Thk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="100" ___lastKnownValue="100.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="9565eb01-7e61-4ac0-a554-3f9f41de052a" ___Name="PR2Thk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="400" ___lastKnownValue="400.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="7ce13af3-faa5-4883-b6b5-cb87628d20cc" ___Name="Staircase" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="a9c88418-b68e-48fb-a971-733086bd03b2" ___Name="PRThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="2800" ___lastKnownValue="2800.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="964b2a07-f42d-4fea-84b2-b7999e0fb140" ___Name="TreadLength" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="90" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="aeebe06f-3300-49a6-8b9b-d198bbe7761b" ___Name="FillOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="300" ___lastKnownValue="300.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="b9d80c20-e6c7-4ac0-87cd-05c84ccea030" ___Name="TopOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="30" ___lastKnownValue="30.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="ac09c01d-8b01-4798-8b7b-fa11207eb64f" ___Name="Slit" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="02e2035e-dd22-4bee-b322-8c08655e4efe" ___Name="cHMThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="400" ___lastKnownValue="400.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="28e6e270-d7d2-420c-bb2e-8babbf21cf26" ___Name="RMG" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="8d761eca-1f31-42cb-b46f-92ab98c4cbf0" ___Name="SiNWetEB" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="170" ___lastKnownValue="170.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="7baf2ac0-8e82-42bd-985e-f94488786f06" ___Name="TiNLinerThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="3" ___lastKnownValue="3.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="6643c959-a91e-46a2-ac17-60779de43c95" ___Name="WThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="19" ___lastKnownValue="19.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="be835d5a-7e96-4fe2-afec-110498b0980f" ___Name="WEBDist" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="35" ___lastKnownValue="35.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="14fa40f1-0eee-4805-8518-39604fe867b4" ___Name="Contact" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="3591d865-92ef-4011-980d-d5cef550452d" ___Name="FillOxThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="19" ___lastKnownValue="19.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="162637b5-d7c0-4258-9ce9-d6041632aeea" ___Name="TiNLiner" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="3" ___lastKnownValue="3.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="b6993775-94ee-471f-8acc-8b2ef66f8312" ___Name="WThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="110" ___lastKnownValue="110.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="41d4374f-ef54-4788-812f-31085f3e9b0d" ___Name="ILD1Thk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="60" ___lastKnownValue="60.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item Imported="true" UUID="30ccb74e-7855-496c-a61b-99ff1826c692" ___Name="StaircaseVia" ___Type="VariableGroup">
+      <___Item Imported="true" UUID="1b497689-efc6-4241-bf25-71dff9164155" ___Name="WFillThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="70" ___lastKnownValue="70.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="e6d9300b-2889-40b6-9e0d-35afe32fd3d4" ___Name="TiNLinerThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="3" ___lastKnownValue="3.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+      <___Item Imported="true" UUID="3e827913-7e85-44a1-95aa-2997c3c628fe" ___Name="cHMThk" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="500" ___lastKnownValue="500.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="true"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+  </___Parser>
+
+  <___DocumentTree UUID="053219ee-23d4-4715-8f33-0f2eece4e9b9" ___Name="Analysis Root" ___Type="AnalysisRoot" isExpanded="true">
+    <___Properties isEnable="true">
+      <stepName ___text=""/>
+      <stepAction ___text="" readonly="true"/>
+      <skipMask isEnable="false" showHeader="true">
+        <name ___text="" readonly="true"/>
+      </skipMask>
+      <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+      <uiProcessStepSpacer ___text="" extraSpace="true"/>
+    </___Properties>
+    <___Item UUID="8d61602f-cdfe-437b-9e41-6c000416a91e" ___Name="Analysis Sequence1" ___Type="AnalysisGroup" isExpanded="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Channel"/>
+        <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+        <skipMask isEnable="false" showHeader="true" uiHidden="true">
+          <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+      </___Properties>
+      <___Item UUID="6b2cb5ea-d7b1-4ae1-bfc3-ddf8379a48a1" ___Name="Analysis Sequence1" ___Type="AnalysisGroup" isExpanded="true">
+        <___Properties isEnable="true">
+          <stepName ___text="Etch"/>
+          <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+          <skipMask isEnable="false" showHeader="true" uiHidden="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+        </___Properties>
+        <___Item Comment="" UUID="cf46b4f2-1247-4720-b4b2-07ba944cd431" ___Name="Metrology1" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="MEA Channel - GSL - TOP"/>
+            <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="32fff8c5-752e-4cb7-b023-6c510a751842" ___text="3.2: Etch"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="CD_CH_ETCH_TOP"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="criticalDimension ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="trench"/>
+                <elevation ___activeMember="relative ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="depthFromTop ">
+                      <percentage isEnable="true">
+                        <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+        <___Item Comment="" UUID="92f4f2fe-aec9-4ffe-880d-0048860b4621" ___Name="Metrology2" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="MEA Channel - GSL - MID"/>
+            <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="32fff8c5-752e-4cb7-b023-6c510a751842" ___text="3.2: Etch"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="CD_CH_ETCH_MID"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="criticalDimension ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="trench"/>
+                <elevation ___activeMember="relative ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="percentage ">
+                      <percentage isEnable="true">
+                        <value ___expression="50" ___lastKnownValue="50.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+        <___Item Comment="" UUID="86bc1d04-ab70-4171-a64a-e9904209dbc0" ___Name="Metrology3" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="MEA Channel - GSL - BOT"/>
+            <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="32fff8c5-752e-4cb7-b023-6c510a751842" ___text="3.2: Etch"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="CD_CH_ETCH_BOT"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="criticalDimension ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="trench"/>
+                <elevation ___activeMember="relative ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="heightFromBottom ">
+                      <percentage isEnable="true">
+                        <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+      </___Item>
+    </___Item>
+    <___Item UUID="2db02086-648e-4c64-a85c-12f4756d4f05" ___Name="Analysis Sequence2" ___Type="AnalysisGroup" isExpanded="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Slit"/>
+        <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+        <skipMask isEnable="false" showHeader="true" uiHidden="true">
+          <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+      </___Properties>
+      <___Item Comment="" UUID="e6f2ecfa-246e-4fea-8a6e-b110010a138c" ___Name="Metrology1" ___Type="Metrology">
+        <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+          <stepName ___text="MEA CD CSL2 TOP"/>
+          <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+          <skipMask isEnable="false" showHeader="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <runAfterStep UUID="7e7b6524-19d5-4021-84f9-e65799cd26f6" ___text="5.5: Etch"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+          <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+          <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+          <showViewer ___expression="false"/>
+          <uiSpacer1 ___text="" extraSpace="true"/>
+          <mask ___text="CD_CSL2" uiUseCustomMaskWidget="true"/>
+          <parameterName ___text="CD_WLCUT2_1_TOP"/>
+          <uiSpacer2 ___text="" extraSpace="true"/>
+          <type ___activeMember="criticalDimension ">
+            <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                <_MaterialNodeType_Organics UserDefinedName="/Organics/" isEnable="true"/>
+              </transparentMaterials>
+              <structure ___activeMember="lineOrTrench"/>
+              <elevation ___activeMember="top ">
+                <relative isEnable="true">
+                  <relativePosition ___activeMember="percentage ">
+                    <percentage isEnable="true">
+                      <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </percentage>
+                    <depthFromTop isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </depthFromTop>
+                    <heightFromBottom isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </heightFromBottom>
+                  </relativePosition>
+                </relative>
+                <absolute isEnable="true">
+                  <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                </absolute>
+                <top isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </top>
+                <middle isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </middle>
+                <bottom isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </bottom>
+              </elevation>
+              <createPositionParameters ___expression="false"/>
+            </criticalDimension>
+            <elevationChange isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </elevationChange>
+            <filmThickness isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <sumMultipleFilms ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </filmThickness>
+            <lineToLine isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <elevation ___activeMember="top"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </lineToLine>
+            <sidewallAngle isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              <createPositionParameters ___expression="false"/>
+            </sidewallAngle>
+            <stepHeight isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </stepHeight>
+            <voidMetrology isEnable="true">
+              <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <reportOnlyLargestVoid ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </voidMetrology>
+            <voidVolume isEnable="true"/>
+            <interfaceArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </interfaceArea>
+          </type>
+        </___Properties>
+      </___Item>
+      <___Item Comment="" UUID="89ecef07-9693-495d-9dd5-529f53db5412" ___Name="Metrology2" ___Type="Metrology">
+        <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+          <stepName ___text="MEA CD CSL2 MID"/>
+          <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+          <skipMask isEnable="false" showHeader="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <runAfterStep UUID="7e7b6524-19d5-4021-84f9-e65799cd26f6" ___text="5.5: Etch"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+          <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+          <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+          <showViewer ___expression="false"/>
+          <uiSpacer1 ___text="" extraSpace="true"/>
+          <mask ___text="CD_CSL2" uiUseCustomMaskWidget="true"/>
+          <parameterName ___text="CD_WLCUT2_1_MID"/>
+          <uiSpacer2 ___text="" extraSpace="true"/>
+          <type ___activeMember="criticalDimension ">
+            <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                <_MaterialNodeType_Organics UserDefinedName="/Organics/" isEnable="true"/>
+              </transparentMaterials>
+              <structure ___activeMember="lineOrTrench"/>
+              <elevation ___activeMember="middle ">
+                <relative isEnable="true">
+                  <relativePosition ___activeMember="percentage ">
+                    <percentage isEnable="true">
+                      <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </percentage>
+                    <depthFromTop isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </depthFromTop>
+                    <heightFromBottom isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </heightFromBottom>
+                  </relativePosition>
+                </relative>
+                <absolute isEnable="true">
+                  <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                </absolute>
+                <top isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </top>
+                <middle isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </middle>
+                <bottom isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </bottom>
+              </elevation>
+              <createPositionParameters ___expression="false"/>
+            </criticalDimension>
+            <elevationChange isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </elevationChange>
+            <filmThickness isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <sumMultipleFilms ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </filmThickness>
+            <lineToLine isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <elevation ___activeMember="top"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </lineToLine>
+            <sidewallAngle isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              <createPositionParameters ___expression="false"/>
+            </sidewallAngle>
+            <stepHeight isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </stepHeight>
+            <voidMetrology isEnable="true">
+              <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <reportOnlyLargestVoid ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </voidMetrology>
+            <voidVolume isEnable="true"/>
+            <interfaceArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </interfaceArea>
+          </type>
+        </___Properties>
+      </___Item>
+      <___Item Comment="" UUID="dee23841-1607-4678-a9dc-dc019f7f5d95" ___Name="Metrology3" ___Type="Metrology">
+        <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+          <stepName ___text="MEA CD CSL2 BOT"/>
+          <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+          <skipMask isEnable="false" showHeader="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <runAfterStep UUID="7e7b6524-19d5-4021-84f9-e65799cd26f6" ___text="5.5: Etch"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+          <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+          <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+          <showViewer ___expression="false"/>
+          <uiSpacer1 ___text="" extraSpace="true"/>
+          <mask ___text="CD_CSL2" uiUseCustomMaskWidget="true"/>
+          <parameterName ___text="CD_WLCUT2_1_BOT"/>
+          <uiSpacer2 ___text="" extraSpace="true"/>
+          <type ___activeMember="criticalDimension ">
+            <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                <_MaterialNodeType_Organics UserDefinedName="/Organics/" isEnable="true"/>
+              </transparentMaterials>
+              <structure ___activeMember="lineOrTrench"/>
+              <elevation ___activeMember="bottom ">
+                <relative isEnable="true">
+                  <relativePosition ___activeMember="percentage ">
+                    <percentage isEnable="true">
+                      <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </percentage>
+                    <depthFromTop isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </depthFromTop>
+                    <heightFromBottom isEnable="true">
+                      <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </heightFromBottom>
+                  </relativePosition>
+                </relative>
+                <absolute isEnable="true">
+                  <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                </absolute>
+                <top isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </top>
+                <middle isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </middle>
+                <bottom isEnable="true">
+                  <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                </bottom>
+              </elevation>
+              <createPositionParameters ___expression="false"/>
+            </criticalDimension>
+            <elevationChange isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </elevationChange>
+            <filmThickness isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <sumMultipleFilms ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </filmThickness>
+            <lineToLine isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <elevation ___activeMember="top"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </lineToLine>
+            <sidewallAngle isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              <createPositionParameters ___expression="false"/>
+            </sidewallAngle>
+            <stepHeight isEnable="true">
+              <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+            </stepHeight>
+            <voidMetrology isEnable="true">
+              <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <reportOnlyLargestVoid ___expression="false"/>
+              <createPositionParameters ___expression="false"/>
+            </voidMetrology>
+            <voidVolume isEnable="true"/>
+            <interfaceArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+            </interfaceArea>
+          </type>
+        </___Properties>
+      </___Item>
+    </___Item>
+    <___Item UUID="3a796013-4d92-45a7-bafa-627b5d2604a5" ___Name="Analysis Sequence4" ___Type="AnalysisGroup" stepDisabled="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Contact"/>
+        <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+        <skipMask isEnable="false" showHeader="true" uiHidden="true">
+          <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+      </___Properties>
+      <___Item UUID="a87eabb4-bcc6-42a6-bf1a-7582238991c2" ___Name="Analysis Sequence1" ___Type="AnalysisGroup" isExpanded="true">
+        <___Properties isEnable="true">
+          <stepName ___text="Channel Plug"/>
+          <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+          <skipMask isEnable="false" showHeader="true" uiHidden="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+        </___Properties>
+        <___Item UUID="799d828a-1050-41a4-abd4-293ab6737968" ___Name="Analysis Sequence1" ___Type="AnalysisGroup">
+          <___Properties isEnable="true">
+            <stepName ___text="Etch Channel Plug"/>
+            <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+            <skipMask isEnable="false" showHeader="true" uiHidden="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+          </___Properties>
+          <___Item UUID="af89a98b-1e5d-48af-b02d-9145cef3b0bf" ___Name="Analysis Sequence1" ___Type="AnalysisGroup">
+            <___Properties isEnable="true">
+              <stepName ___text="Metrology"/>
+              <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+              <skipMask isEnable="false" showHeader="true" uiHidden="true">
+                <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+              </skipMask>
+              <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+              <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            </___Properties>
+            <___Item Comment="" UUID="7b916802-ecce-47b0-8e48-25c1343fa4b7" ___Name="Metrology1" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD Contact SSL TOP"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_SSL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CONTACT_SSL_TOP"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="top ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+            <___Item Comment="" UUID="f222316b-b808-4e37-922d-556467353920" ___Name="Metrology2" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD Contact SSL MID"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_SSL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CONTACT_SSL_MID"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="middle ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+            <___Item Comment="" UUID="b5556e0a-24f8-45ad-b358-bcd51776f519" ___Name="Metrology3" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD Contact SSL BOT"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_SSL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CONTACT_SSL_BOT"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="bottom ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+            <___Item Comment="" UUID="18b07c58-139e-41ec-9a06-952b69d3062c" ___Name="Metrology4" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD CHANNEL 1 TOP"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CHANNEL_1_TOP"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="top ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+            <___Item Comment="" UUID="f7ab1495-4122-48fd-aa0b-805bbacd170f" ___Name="Metrology5" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD CHANNEL 1 MID"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CHANNEL_1_MID"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="middle ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+            <___Item Comment="" UUID="3419a47b-dae5-4eb8-9e6a-1f7b5c3f20c3" ___Name="Metrology6" ___Type="Metrology">
+              <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+                <stepName ___text="MEA CD CHANNEL 1 BOT"/>
+                <stepAction ___text="Critical Dimension Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+                <skipMask isEnable="false" showHeader="true">
+                  <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+                </skipMask>
+                <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <runAfterStep UUID="0a02999f-202b-4351-8ac0-21fd63cf5922" ___text="7.2.2.4: DARC Removal"/>
+                <uiProcessStepSpacer ___text="" extraSpace="true"/>
+                <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+                <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+                <showViewer ___expression="false"/>
+                <uiSpacer1 ___text="" extraSpace="true"/>
+                <mask ___text="CD_CHANNEL" uiUseCustomMaskWidget="true"/>
+                <parameterName ___text="CD_CHANNEL_1_BOT"/>
+                <uiSpacer2 ___text="" extraSpace="true"/>
+                <type ___activeMember="criticalDimension ">
+                  <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <structure ___activeMember="lineOrTrench"/>
+                    <elevation ___activeMember="bottom ">
+                      <relative isEnable="true">
+                        <relativePosition ___activeMember="percentage ">
+                          <percentage isEnable="true">
+                            <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </percentage>
+                          <depthFromTop isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </depthFromTop>
+                          <heightFromBottom isEnable="true">
+                            <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                          </heightFromBottom>
+                        </relativePosition>
+                      </relative>
+                      <absolute isEnable="true">
+                        <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </absolute>
+                      <top isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </top>
+                      <middle isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </middle>
+                      <bottom isEnable="true">
+                        <slopeThreshold ___expression="1" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                      </bottom>
+                    </elevation>
+                    <createPositionParameters ___expression="false"/>
+                  </criticalDimension>
+                  <elevationChange isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </elevationChange>
+                  <filmThickness isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <sumMultipleFilms ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </filmThickness>
+                  <lineToLine isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <elevation ___activeMember="top"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </lineToLine>
+                  <sidewallAngle isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                    <createPositionParameters ___expression="false"/>
+                  </sidewallAngle>
+                  <stepHeight isEnable="true">
+                    <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </stepHeight>
+                  <voidMetrology isEnable="true">
+                    <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                    <reportOnlyLargestVoid ___expression="false"/>
+                    <createPositionParameters ___expression="false"/>
+                  </voidMetrology>
+                  <voidVolume isEnable="true"/>
+                  <interfaceArea isEnable="true">
+                    <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                  </interfaceArea>
+                </type>
+              </___Properties>
+            </___Item>
+          </___Item>
+        </___Item>
+      </___Item>
+    </___Item>
+    <___Item UUID="f8ca1011-cc89-4762-9219-2f6cf435ec02" ___Name="Analysis Sequence5" ___Type="AnalysisGroup" stepDisabled="true">
+      <___Properties isEnable="true">
+        <stepName ___text="M1"/>
+        <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+        <skipMask isEnable="false" showHeader="true" uiHidden="true">
+          <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+      </___Properties>
+      <___Item UUID="aad20509-f82f-4af8-8a41-bb79864cb61c" ___Name="Analysis Sequence1" ___Type="AnalysisGroup" isExpanded="true">
+        <___Properties isEnable="true">
+          <stepName ___text="Films"/>
+          <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" readonly="true" stepType="AnalysisGroup"/>
+          <skipMask isEnable="false" showHeader="true" uiHidden="true">
+            <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true"/>
+        </___Properties>
+        <___Item Comment="" UUID="dce157e8-d4c9-4023-87c2-fc201d42e845" ___Name="Metrology1" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="Measure NBlok Thickness"/>
+            <stepAction ___text="Film Thickness Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="a4a462a7-a359-42ed-959b-70df3988e940" ___text="8.1.1: NBLoK Cap Deposition"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="THK_Base" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="THK_M1_NBlok_Dep"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="filmThickness ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="lineOrTrench"/>
+                <elevation ___activeMember="top ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="percentage ">
+                      <percentage isEnable="true">
+                        <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                  <_MaterialNodeType_Nitrides_MaterialLeafType_Si3N4_NBLoK UserDefinedName="/Nitrides/Si3N4_NBLoK" isEnable="true"/>
+                </materials>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+        <___Item Comment="" UUID="2e9b61b4-01af-4c01-bc16-32cffa95b7af" ___Name="Metrology2" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="Measure SiCOH Thickness"/>
+            <stepAction ___text="Film Thickness Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="2f001181-ec44-4b15-ab0e-ff687e994672" ___text="8.1.2: SiCOH Deposition"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="THK_Base" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="THK_M1_SiCOH_Dep"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="filmThickness ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="lineOrTrench"/>
+                <elevation ___activeMember="top ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="percentage ">
+                      <percentage isEnable="true">
+                        <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                  <_MaterialNodeType_Oxides_MaterialLeafType_SiO2_SiCOH UserDefinedName="/Oxides/SiO2_SiCOH" isEnable="true"/>
+                </materials>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+        <___Item Comment="" UUID="3a405175-d57b-4ee3-a9f8-1bc2b712e1bb" ___Name="Metrology3" ___Type="Metrology">
+          <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+            <stepName ___text="Measure LTO Thickness"/>
+            <stepAction ___text="Film Thickness Metrology (Automation)" icon=":/icons/Metrology" readonly="true" stepType="Metrology"/>
+            <skipMask isEnable="false" showHeader="true">
+              <name ___text="" readonly="true" uiUseCustomMaskWidget="true"/>
+            </skipMask>
+            <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            <runAfterStep UUID="7f11a172-4c24-4a9b-a366-be211f5779bc" ___text="8.1.3: LTO Deposition"/>
+            <uiProcessStepSpacer ___text="" extraSpace="true"/>
+            <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" uiHideChildNodes="true"/>
+            <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+            <showViewer ___expression="false"/>
+            <uiSpacer1 ___text="" extraSpace="true"/>
+            <mask ___text="THK_Base" uiUseCustomMaskWidget="true"/>
+            <parameterName ___text="THK_M1_LTO_Dep"/>
+            <uiSpacer2 ___text="" extraSpace="true"/>
+            <type ___activeMember="filmThickness ">
+              <criticalDimension VersionNumber="11.0.0.0" isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <structure ___activeMember="lineOrTrench"/>
+                <elevation ___activeMember="top ">
+                  <relative isEnable="true">
+                    <relativePosition ___activeMember="percentage ">
+                      <percentage isEnable="true">
+                        <value ___expression="90.0" ___lastKnownValue="90.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </percentage>
+                      <depthFromTop isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </depthFromTop>
+                      <heightFromBottom isEnable="true">
+                        <value ___expression="5.0" ___lastKnownValue="5.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                      </heightFromBottom>
+                    </relativePosition>
+                  </relative>
+                  <absolute isEnable="true">
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </absolute>
+                  <top isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </top>
+                  <middle isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </middle>
+                  <bottom isEnable="true">
+                    <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                  </bottom>
+                </elevation>
+                <createPositionParameters ___expression="false"/>
+              </criticalDimension>
+              <elevationChange isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </elevationChange>
+              <filmThickness isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true">
+                  <_MaterialNodeType_Oxides_MaterialLeafType_SiO2_LTO UserDefinedName="/Oxides/SiO2_LTO" isEnable="true"/>
+                </materials>
+                <sumMultipleFilms ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </filmThickness>
+              <lineToLine isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <elevation ___activeMember="top"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </lineToLine>
+              <sidewallAngle isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+                <createPositionParameters ___expression="false"/>
+              </sidewallAngle>
+              <stepHeight isEnable="true">
+                <transparentMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+                <slopeThreshold ___expression="1.0" ___lastKnownValue="1.0" ___unitConversionExpr="" ___unitName="nounit" hiddenInAnalyticsInput="true"/>
+              </stepHeight>
+              <voidMetrology isEnable="true">
+                <referenceHeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <bottomThicknessMaterials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+                <reportOnlyLargestVoid ___expression="false"/>
+                <createPositionParameters ___expression="false"/>
+              </voidMetrology>
+              <voidVolume isEnable="true"/>
+              <interfaceArea isEnable="true">
+                <materials VersionNumber="11.0.0.0" uiHideChildNodes="true" uiUseCustomMaterialWidget="true"/>
+              </interfaceArea>
+            </type>
+          </___Properties>
+        </___Item>
+      </___Item>
+    </___Item>
+    <___Item UUID="9084ed11-a3fb-4be3-a62a-a338f9bce7d6" ___Name="Analysis Sequence6" ___Type="AnalysisGroup" stepDisabled="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Structure Search" isExpanded="true"/>
+        <stepAction ___text="Analysis Sequence" icon=":/icons/AnalysisGroup" isExpanded="true" readonly="true" stepType="AnalysisGroup"/>
+        <skipMask isEnable="false" isExpanded="true" showHeader="true" uiHidden="true">
+          <name ___text="" isExpanded="true" readonly="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" isExpanded="true" uiHidden="true"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true" isExpanded="true"/>
+      </___Properties>
+      <___Item UUID="7269b40d-070a-4dea-bb0b-b6e8bb501694" ___Name="Structure Search2" ___Type="StructureSearch">
+        <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+          <stepName ___text="Net List after Via" isExpanded="true"/>
+          <stepAction ___text="Number Of Electrical Components Structure Search (Automation)" icon=":/icons/StructureSearch" isExpanded="true" readonly="true" stepType="StructureSearch"/>
+          <skipMask isEnable="false" isExpanded="true" showHeader="true">
+            <name ___text="" isExpanded="true" readonly="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" isExpanded="true"/>
+          <runAfterStep UUID="546625c0-37a8-4554-b665-c7728e18448f" ___text="7: Contact" isExpanded="true" uiCustom="ProcessStepAnchor"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true" isExpanded="true"/>
+          <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" isExpanded="true" uiHideChildNodes="true"/>
+          <uiWaferSetupSpacer ___text="" extraSpace="true" isExpanded="true"/>
+          <uiStructureSearchSpacer1 ___text="" extraSpace="true" isExpanded="true"/>
+          <type ___activeMember="numberOfElectricalComponents " isExpanded="true">
+            <electricalNetIsolation isEnable="true" isExpanded="true"/>
+            <minimumSeparationBetweenComponents isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumSeparationBetweenComponents>
+            <minimumSeparationBetweenGroups isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumSeparationBetweenGroups>
+            <minimumLineWidth isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <lineEndDiameter isEnable="false" showHeader="true">
+                <diameter ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" readonly="true"/>
+              </lineEndDiameter>
+            </minimumLineWidth>
+            <minimumLayerThickness isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumLayerThickness>
+            <numberOfElectricalComponents isEnable="true" isExpanded="true"/>
+            <numberOfMaterialComponents isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </numberOfMaterialComponents>
+            <minimumContactArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <ignoreBoundaryFailures ___expression="true"/>
+            </minimumContactArea>
+            <maximumContactArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <ignoreBoundaryFailures ___expression="true"/>
+            </maximumContactArea>
+            <locationOfMinimumElevation isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </locationOfMinimumElevation>
+            <locationOfMaximumElevation isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </locationOfMaximumElevation>
+          </type>
+          <uiStructureSearchSpacer2 ___text="" extraSpace="true" isExpanded="true"/>
+          <parameterName ___text="NetListAfterVia" isExpanded="true"/>
+          <threshold isEnable="false" isExpanded="true" showHeader="true">
+            <value ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" isExpanded="true" readonly="true"/>
+            <exitOnFailure ___expression="false" isExpanded="true" readonly="true"/>
+          </threshold>
+          <showMarkers ___expression="true" isExpanded="true"/>
+          <ignoreFragments ___expression="true" isExpanded="true"/>
+          <uiStructureSearchSpacer3 ___text="" extraSpace="true" isExpanded="true"/>
+          <mask VersionNumber="11.0.0.0" isEnable="false" isExpanded="true" showHeader="true">
+            <name ___text="" isExpanded="true" readonly="true"/>
+            <invert ___expression="false" isExpanded="true" readonly="true"/>
+          </mask>
+        </___Properties>
+      </___Item>
+      <___Item UUID="8424e3b3-c1cc-40d8-999f-094b6087d6eb" ___Name="Structure Search21" ___Type="StructureSearch">
+        <___Properties VersionNumber="11.0.0.0" featureAttribute="2" isEnable="true">
+          <stepName ___text="Net List after M1" isExpanded="true"/>
+          <stepAction ___text="Number Of Electrical Components Structure Search (Automation)" icon=":/icons/StructureSearch" isExpanded="true" readonly="true" stepType="StructureSearch"/>
+          <skipMask isEnable="false" isExpanded="true" showHeader="true">
+            <name ___text="" isExpanded="true" readonly="true"/>
+          </skipMask>
+          <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" isExpanded="true"/>
+          <runAfterStep UUID="88cb7b95-8262-40d5-b8b5-82e8fa3e3439" ___text="8: M1" isExpanded="true" uiCustom="ProcessStepAnchor"/>
+          <uiProcessStepSpacer ___text="" extraSpace="true" isExpanded="true"/>
+          <wafer VersionNumber="11.0.0.0" ___text="Wafer1" inputWafer="true" isExpanded="true" uiHideChildNodes="true"/>
+          <uiWaferSetupSpacer ___text="" extraSpace="true" isExpanded="true"/>
+          <uiStructureSearchSpacer1 ___text="" extraSpace="true" isExpanded="true"/>
+          <type ___activeMember="numberOfElectricalComponents " isExpanded="true">
+            <electricalNetIsolation isEnable="true" isExpanded="true"/>
+            <minimumSeparationBetweenComponents isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumSeparationBetweenComponents>
+            <minimumSeparationBetweenGroups isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumSeparationBetweenGroups>
+            <minimumLineWidth isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <lineEndDiameter isEnable="false" showHeader="true">
+                <diameter ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" readonly="true"/>
+              </lineEndDiameter>
+            </minimumLineWidth>
+            <minimumLayerThickness isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </minimumLayerThickness>
+            <numberOfElectricalComponents isEnable="true" isExpanded="true"/>
+            <numberOfMaterialComponents isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </numberOfMaterialComponents>
+            <minimumContactArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <ignoreBoundaryFailures ___expression="true"/>
+            </minimumContactArea>
+            <maximumContactArea isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <ignoreBoundaryFailures ___expression="true"/>
+            </maximumContactArea>
+            <locationOfMinimumElevation isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </locationOfMinimumElevation>
+            <locationOfMaximumElevation isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+            </locationOfMaximumElevation>
+          </type>
+          <uiStructureSearchSpacer2 ___text="" extraSpace="true" isExpanded="true"/>
+          <parameterName ___text="NetListAfterM1" isExpanded="true"/>
+          <threshold isEnable="false" isExpanded="true" showHeader="true">
+            <value ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" isExpanded="true" readonly="true"/>
+            <exitOnFailure ___expression="false" isExpanded="true" readonly="true"/>
+          </threshold>
+          <showMarkers ___expression="true" isExpanded="true"/>
+          <ignoreFragments ___expression="true" isExpanded="true"/>
+          <uiStructureSearchSpacer3 ___text="" extraSpace="true" isExpanded="true"/>
+          <mask VersionNumber="11.0.0.0" isEnable="false" isExpanded="true" showHeader="true">
+            <name ___text="" isExpanded="true" readonly="true"/>
+            <invert ___expression="false" isExpanded="true" readonly="true"/>
+          </mask>
+        </___Properties>
+      </___Item>
+    </___Item>
+  </___DocumentTree>
+
+</___Document>
