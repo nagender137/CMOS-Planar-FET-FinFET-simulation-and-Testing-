@@ -1,0 +1,109 @@
+15:35:13 INFO   Loading Assembly file: D:/SEMulator 3D/Assignment11_FinFET_Inverter/FinFET_Inverter.zam
+15:35:15 INFO   Loading Analysis file: D:/SEMulator 3D/Assignment11_FinFET_Inverter/FinFET_Inverter.vanalysis
+15:35:31 INFO   Loading Process file: D:/SEMulator 3D/Assignment11_FinFET_Inverter/FinFET_Inverter.vproc
+15:35:31 INFO   Loading Material file: D:/SEMulator 3D/Assignment11_FinFET_Inverter/SEMulator3DMaterialsDatabase11.vmpd
+15:35:35 INFO   Saving assembly file "D:\SEMulator 3D\Assignment11_FinFET_Inverter\FinFET_Inverter.zam".
+15:35:37 INFO   No masks which are used in the process have been modified.
+15:35:37 INFO   Preparing for incremental re-build of the 3D model.
+15:35:39 INFO   Saving assembly file "D:\SEMulator 3D\Assignment11_FinFET_Inverter\FinFET_Inverter.zam".
+15:35:41 INFO   Saving build script: D:\SEMulator 3D\Assignment11_FinFET_Inverter\__semu_FinFET_Inverter.py
+15:35:42 INFO : License server value is 54015@10.56.1.32.
+15:35:42 INFO : Platform is Windows, 64-bit.
+15:35:42 INFO : PRODUCT_NAME             SEMulator3D
+15:35:42 INFO : VERSION_BUILD_NUMBER     11.0.0.0
+15:35:42 INFO : VERSION_BUILD_TIMESTAMP  Thu Jun 15 11:51:04 2023
+15:35:42 INFO : 
+
+15:35:46 INFO   Default number of parallel workers = 8
+15:35:46 INFO   Adding new input file path: D:\SEMulator 3D\Assignment11_FinFET_Inverter\
+15:36:08 INFO : 1:	Skipping unmodified step WaferSetup ("Wafer Setup")
+15:36:08 INFO : 2:	Sequence ("Fin formation")
+15:36:08 INFO : 2.1:	Skipping unmodified step Deposit ("Silicon Nitride hard mask for Fin etch")
+15:36:08 INFO : 2.2:	Skipping unmodified step Deposit ("resist for SiN hard mask pattern")
+15:36:08 INFO : 2.3:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 2.4:	Skipping unmodified step Etch ("SiN hard mask etch")
+15:36:08 INFO : 2.5:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 2.6:	Skipping unmodified step Etch ("Etch for Fin formation")
+15:36:08 INFO : 2.7:	Skipping unmodified step RemoveMaterials ("Remove SiN hard mask")
+15:36:08 INFO   Saving assembly file "D:\SEMulator 3D\Assignment11_FinFET_Inverter\FinFET_Inverter.zam".
+15:36:08 INFO : 3:	Sequence ("STI")
+15:36:08 INFO : 3.1:	Skipping unmodified step Deposit ("Planar Deposit")
+15:36:08 INFO : 3.2:	Skipping unmodified step Etch ("Basic Etch")
+15:36:08 INFO : 4:	Sequence ("NMOS_Source_Drain formation")
+15:36:08 INFO : 4.1:	Skipping unmodified step Deposit ("Resist Deposit for S/D implant")
+15:36:08 INFO : 4.2:	Skipping unmodified step ExposeMaterial ("Expose resist  for S/D doping")
+15:36:08 INFO : 4.3:	Skipping unmodified step Implant ("Source_Drain_Implantation")
+15:36:08 INFO : 4.4:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 4.5:	Skipping unmodified step Diffusion ("S/D Activation Anneal")
+15:36:08 INFO : 5:	Sequence ("PMOS_Source_Drain formation")
+15:36:08 INFO : 5.1:	Skipping unmodified step Deposit ("Resist Deposit for S/D implant")
+15:36:08 INFO : 5.2:	Skipping unmodified step ExposeMaterial ("Expose resist  for S/D doping")
+15:36:08 INFO : 5.3:	Skipping unmodified step Implant ("Source_Drain_Implantation")
+15:36:08 INFO : 5.4:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 5.5:	Skipping unmodified step Diffusion ("S/D Activation Anneal")
+15:36:08 INFO : 5.6:	Skipping disabled step Sequence ("Gate oxide pattern")
+15:36:08 INFO : 6:	Sequence ("NMOS_Gate metal")
+15:36:08 INFO : 6.1:	Skipping unmodified step Deposit ("Gate oxide deposition")
+15:36:08 INFO : 6.2:	Skipping unmodified step Deposit ("resist for gate oxide pattern")
+15:36:08 INFO : 6.3:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 6.4:	Skipping unmodified step Etch ("oxide Etch")
+15:36:08 INFO : 6.5:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 6.6:	Skipping unmodified step Deposit ("Gate high k deposition")
+15:36:08 INFO : 6.7:	Skipping unmodified step Deposit ("resist for gate high k pattern")
+15:36:08 INFO : 6.8:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 6.9:	Skipping unmodified step Etch ("high k Etch")
+15:36:08 INFO : 6.10:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 6.11:	Skipping unmodified step Deposit ("Gate metal deposition")
+15:36:08 INFO : 6.12:	Skipping unmodified step Deposit ("resist for gate metal pattern")
+15:36:08 INFO : 6.13:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 6.14:	Skipping unmodified step Etch ("NMOS gate metal Etch")
+15:36:08 INFO : 6.15:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 7:	Sequence ("PMOS_Gate metal")
+15:36:08 INFO : 7.1:	Skipping unmodified step Deposit ("Gate oxide deposition")
+15:36:08 INFO : 7.2:	Skipping unmodified step Deposit ("resist for gate oxide pattern")
+15:36:08 INFO : 7.3:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 7.4:	Skipping unmodified step Etch ("oxide Etch")
+15:36:08 INFO : 7.5:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 7.6:	Skipping unmodified step Deposit ("Gate high k deposition")
+15:36:08 INFO : 7.7:	Skipping unmodified step Deposit ("resist for gate high k pattern")
+15:36:08 INFO : 7.8:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 7.9:	Skipping unmodified step Etch ("high k Etch")
+15:36:08 INFO : 7.10:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 7.11:	Skipping unmodified step Deposit ("Gate metal deposition")
+15:36:08 INFO : 7.12:	Skipping unmodified step Deposit ("resist for gate metal pattern")
+15:36:08 INFO : 7.13:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 7.14:	Skipping unmodified step Etch ("NMOS gate metal Etch")
+15:36:08 INFO : 7.15:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 8:	Skipping disabled step Sequence ("spacer pattern")
+15:36:08 INFO : 9:	Sequence ("Inverter input patterning")
+15:36:08 INFO : 9.1:	Skipping unmodified step Deposit ("resist for gate via pattern")
+15:36:08 INFO : 9.2:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 9.3:	Skipping unmodified step Deposit ("Straight Deposit")
+15:36:08 INFO : 9.4:	Skipping unmodified step Polish ("Reference CMP ")
+15:36:08 INFO : 9.5:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 9.6:	Skipping unmodified step Deposit ("Planar Deposit")
+15:36:08 INFO : 9.7:	Skipping unmodified step Deposit ("resist for gate input pattern")
+15:36:08 INFO : 9.8:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 9.9:	Skipping unmodified step Deposit ("Straight Deposit")
+15:36:08 INFO : 9.10:	Skipping unmodified step Polish ("Reference CMP ")
+15:36:08 INFO : 9.11:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 9.12:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 10:	Sequence ("Inverter output  and source contacts ")
+15:36:08 INFO : 10.1:	Skipping unmodified step Deposit ("resist for drain via pattern")
+15:36:08 INFO : 10.2:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 10.3:	Skipping unmodified step Deposit ("Straight Deposit")
+15:36:08 INFO : 10.4:	Skipping unmodified step Polish ("Reference CMP ")
+15:36:08 INFO : 10.5:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : 10.6:	Skipping unmodified step Deposit ("Planar Deposit")
+15:36:08 INFO : 10.7:	Skipping unmodified step Deposit ("resist for gate input pattern")
+15:36:08 INFO : 10.8:	Skipping unmodified step ExposeMaterial ("Expose resist ")
+15:36:08 INFO : 10.9:	Skipping unmodified step Deposit ("Straight Deposit")
+15:36:08 INFO : 10.10:	Skipping unmodified step Polish ("Reference CMP ")
+15:36:08 INFO : 10.11:	Skipping unmodified step RemoveMaterials ("Remove resist")
+15:36:08 INFO : A-1:	Skipping unmodified Analysis step NameNets ('Name Nets  (Requires Electrical Analysis)')
+15:36:08 INFO : A-2:	Skipping unmodified Analysis step ElectricalMeasurement ('Extract Capacitance (Requires Electrical Analysis)')
+15:36:08 INFO : 10.12:	Skipping disabled step RemoveMaterials ("Remove resist")
+15:36:08 INFO   Saving assembly file "D:\SEMulator 3D\Assignment11_FinFET_Inverter\FinFET_Inverter.zam".
+15:36:08 INFO : Build process completed.
+15:36:08 INFO : Elapsed Time 26 seconds.
+Build log file moved to : D:/SEMulator 3D/Assignment11_FinFET_Inverter/FinFET_Inverter-Output/FinFET_Inverter.log

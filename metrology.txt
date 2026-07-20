@@ -1,0 +1,10 @@
+inverter_capacitance_GND = 5.439921e-06
+inverter_capacitance_GND_Inverter_Input = 5.293727e-06
+inverter_capacitance_GND_Inverter_Output = 1.047096e-07
+inverter_capacitance_GND_VDD = 4.148459e-08
+inverter_capacitance_Inverter_Input = 2.283141e-05
+inverter_capacitance_Inverter_Input_Inverter_Output = 1.224393e-05
+inverter_capacitance_Inverter_Input_VDD = 5.293744e-06
+inverter_capacitance_Inverter_Output = 1.245338e-05
+inverter_capacitance_Inverter_Output_VDD = 1.047370e-07
+inverter_capacitance_VDD = 5.439966e-06

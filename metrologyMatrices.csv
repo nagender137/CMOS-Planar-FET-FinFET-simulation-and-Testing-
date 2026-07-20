@@ -1,0 +1,6 @@
+Capacitance Matrix (in pF) inverter_capacitance = ,,,,
+Net_Names,GND,Inverter_Input,Inverter_Output,VDD
+GND,5.44E-06,-5.29E-06,-1.05E-07,-4.15E-08
+Inverter_Input,-5.29E-06,2.28E-05,-1.22E-05,-5.29E-06
+Inverter_Output,-1.05E-07,-1.22E-05,1.25E-05,-1.05E-07
+VDD,-4.15E-08,-5.29E-06,-1.05E-07,5.44E-06

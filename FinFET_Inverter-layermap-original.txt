@@ -1,0 +1,13 @@
+sidewall                    7     0  
+Inverter_Output             13    0  
+boundary                    1     0  
+Drain_Via                   12    0  
+NMOS_S_D_implantation       2     0  
+PMOS_Gate                   9     0  
+Fin_Pattern                 0     0  
+spacer                      4     0  
+Inverter_Input              11    0  
+NMOS_Gate                   3     0  
+CD_width_sidewall           6     0  
+Gate_Via                    10    0  
+PMOS_S_D_Implantation       8     0  

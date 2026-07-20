@@ -10,7 +10,7 @@
     <Output Directory="FinFET_Inverter-Output/" Enabled="true" ExtractFragments="false"/>
     <ManagerProperties CropOption="false" LayerMapFileName="" RunType="Start From Blank" StartViewer="true"/>
     <ModelArea BoundingMask="boundary" Coordinates="0.0 0.0 0.0 0.0" PadBy="0.0" Type="Single Mask"/>
-    <UserProperties Author="sushm" AutoRev="true" Comments="" CreatedOn="Tuesday November 07, 2023 13:32:51" LastModified="Tuesday November 07, 2023 13:32:51" Revision="499" Watermark=""/>
+    <UserProperties Author="sushm" AutoRev="true" Comments="" CreatedOn="Tuesday November 07, 2023 13:32:51" LastModified="Tuesday November 07, 2023 13:32:51" Revision="497" Watermark=""/>
     <SecurityProperties FileAccessRestriction=""/>
   </DocumentProperties>
 
@@ -39,6 +39,42 @@
   <material MaterialID="10" blue="128" green="128" name="/Nitrides/Si3N4_PECVD" red="0" transparency="0.0" type="Dielectric" visibility="true"/>
 
   <Dopants>
+    <Dopant Name="/NType/P">
+      <___Properties isEnable="true">
+        <type ___activeMember="donor"/>
+        <displayScaleType ___activeMember="logarithmic" uiHidden="true"/>
+        <diffusionProperties VersionNumber="11.0.0.0" uiHideChildNodes="true">
+          <_MaterialNodeType_Oxides UserDefinedName="/Oxides/" isEnable="true" isMaterialGroup="true" showHeader="true">
+            <activationEnergy ___expression="1.1" ___lastKnownValue="1.1" ___unitConversionExpr="" ___unitName="nounit"/>
+            <maxDiffusionCoefficient ___expression="1.59e-11" ___lastKnownValue="1.59e-11" ___unitConversionExpr="" ___unitName="nounit"/>
+          </_MaterialNodeType_Oxides>
+          <_MaterialNodeType_Silicon UserDefinedName="/Silicon/" isEnable="true" isMaterialGroup="true" showHeader="true">
+            <activationEnergy ___expression="3.69" ___lastKnownValue="3.69" ___unitConversionExpr="" ___unitName="nounit"/>
+            <maxDiffusionCoefficient ___expression="10.5" ___lastKnownValue="10.5" ___unitConversionExpr="" ___unitName="nounit"/>
+          </_MaterialNodeType_Silicon>
+        </diffusionProperties>
+        <atomicNumber ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <atomicWeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+      </___Properties>
+    </Dopant>
+    <Dopant Name="/PType/B">
+      <___Properties isEnable="true">
+        <type ___activeMember="acceptor"/>
+        <displayScaleType ___activeMember="logarithmic" uiHidden="true"/>
+        <diffusionProperties VersionNumber="11.0.0.0" uiHideChildNodes="true">
+          <_MaterialNodeType_Oxides UserDefinedName="/Oxides/" isEnable="true" isMaterialGroup="true" showHeader="true">
+            <activationEnergy ___expression="3.06" ___lastKnownValue="3.06" ___unitConversionExpr="" ___unitName="nounit"/>
+            <maxDiffusionCoefficient ___expression="2.8e-4" ___lastKnownValue="0.00028" ___unitConversionExpr="" ___unitName="nounit"/>
+          </_MaterialNodeType_Oxides>
+          <_MaterialNodeType_Silicon UserDefinedName="/Silicon/" isEnable="true" isMaterialGroup="true" showHeader="true">
+            <activationEnergy ___expression="3.69" ___lastKnownValue="3.69" ___unitConversionExpr="" ___unitName="nounit"/>
+            <maxDiffusionCoefficient ___expression="10.5" ___lastKnownValue="10.5" ___unitConversionExpr="" ___unitName="nounit"/>
+          </_MaterialNodeType_Silicon>
+        </diffusionProperties>
+        <atomicNumber ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <atomicWeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+      </___Properties>
+    </Dopant>
     <Dopant Name="/Neutral/DielectricConstant">
       <___Properties isEnable="true">
         <type ___activeMember="neutral"/>
@@ -80,42 +116,6 @@
         <type ___activeMember="neutral"/>
         <displayScaleType ___activeMember="linear" uiHidden="true"/>
         <diffusionProperties VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
-        <atomicNumber ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
-        <atomicWeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
-      </___Properties>
-    </Dopant>
-    <Dopant Name="/NType/P">
-      <___Properties isEnable="true">
-        <type ___activeMember="donor"/>
-        <displayScaleType ___activeMember="logarithmic" uiHidden="true"/>
-        <diffusionProperties VersionNumber="11.0.0.0" uiHideChildNodes="true">
-          <_MaterialNodeType_Oxides UserDefinedName="/Oxides/" isEnable="true" isMaterialGroup="true" showHeader="true">
-            <activationEnergy ___expression="1.1" ___lastKnownValue="1.1" ___unitConversionExpr="" ___unitName="nounit"/>
-            <maxDiffusionCoefficient ___expression="1.59e-11" ___lastKnownValue="1.59e-11" ___unitConversionExpr="" ___unitName="nounit"/>
-          </_MaterialNodeType_Oxides>
-          <_MaterialNodeType_Silicon UserDefinedName="/Silicon/" isEnable="true" isMaterialGroup="true" showHeader="true">
-            <activationEnergy ___expression="3.69" ___lastKnownValue="3.69" ___unitConversionExpr="" ___unitName="nounit"/>
-            <maxDiffusionCoefficient ___expression="10.5" ___lastKnownValue="10.5" ___unitConversionExpr="" ___unitName="nounit"/>
-          </_MaterialNodeType_Silicon>
-        </diffusionProperties>
-        <atomicNumber ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
-        <atomicWeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
-      </___Properties>
-    </Dopant>
-    <Dopant Name="/PType/B">
-      <___Properties isEnable="true">
-        <type ___activeMember="acceptor"/>
-        <displayScaleType ___activeMember="logarithmic" uiHidden="true"/>
-        <diffusionProperties VersionNumber="11.0.0.0" uiHideChildNodes="true">
-          <_MaterialNodeType_Oxides UserDefinedName="/Oxides/" isEnable="true" isMaterialGroup="true" showHeader="true">
-            <activationEnergy ___expression="3.06" ___lastKnownValue="3.06" ___unitConversionExpr="" ___unitName="nounit"/>
-            <maxDiffusionCoefficient ___expression="2.8e-4" ___lastKnownValue="0.00028" ___unitConversionExpr="" ___unitName="nounit"/>
-          </_MaterialNodeType_Oxides>
-          <_MaterialNodeType_Silicon UserDefinedName="/Silicon/" isEnable="true" isMaterialGroup="true" showHeader="true">
-            <activationEnergy ___expression="3.69" ___lastKnownValue="3.69" ___unitConversionExpr="" ___unitName="nounit"/>
-            <maxDiffusionCoefficient ___expression="10.5" ___lastKnownValue="10.5" ___unitConversionExpr="" ___unitName="nounit"/>
-          </_MaterialNodeType_Silicon>
-        </diffusionProperties>
         <atomicNumber ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
         <atomicWeight ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
       </___Properties>
