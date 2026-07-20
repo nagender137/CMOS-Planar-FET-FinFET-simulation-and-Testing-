@@ -1,0 +1,234 @@
+
+<___Document DocApp="SEMulator3D" DocBuildTag="" DocType="vanalysis" DocVersion="11.0.0.0">
+
+  <___Properties isEnable="true">
+    <masterPassword ___text=""/>
+    <filePassword ___text="" readonly="true"/>
+    <fileAccessRestriction ___text="" readonly="true"/>
+    <processFile RelativeFileName="./Silicidation.vproc" ___text="D:/SEMulator 3D/Assignment6_Silicidation/Silicidation.vproc"/>
+  </___Properties>
+
+  <___CustomConfiguration/>
+
+  <___Parser UUID="5150b791-88db-4589-a5a1-e8c568dfb495" ___Name="Variables" ___Type="VariableRoot" isExpanded="true">
+    <___Item Automatic="true" UUID="b213e2a2-45e7-4722-9a53-b6a21b3c3258" ___Name="Auto" ___Type="VariableGroup">
+      <___Item Automatic="true" UUID="2953bc17-b007-4a6a-ba98-7717db3a674e" ___Name="ModelResolution" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+  </___Parser>
+
+  <___DocumentTree UUID="8ede9946-e47f-41a7-be02-27f8bd751fe1" ___Name="Analysis Root" ___Type="AnalysisRoot" isExpanded="true">
+    <___Properties isEnable="true">
+      <stepName ___text=""/>
+      <stepAction ___text="" readonly="true"/>
+      <skipMask isEnable="false" showHeader="true">
+        <name ___text="" readonly="true"/>
+      </skipMask>
+      <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+      <uiProcessStepSpacer ___text="" extraSpace="true"/>
+    </___Properties>
+    <___Item UUID="a5a4097c-9895-4819-b48a-e83b0a7601a2" ___Name="Name Ports2" ___Type="NamePorts" stepDisabled="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Name Ports (Requires Electrical Analysis / 3D Export)"/>
+        <stepAction ___text="Name Ports (Electrical Analysis, 3D Export)" icon=":/icons/NamePorts" readonly="true" stepType="NamePorts"/>
+        <skipMask isEnable="false" showHeader="true">
+          <name ___text="" readonly="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <runAfterStep UUID="f34e7683-9285-4c6c-aec4-980949cd70d8" ___text="6.5: Remove resist"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+        <wafer VersionNumber="11.0.0.0" ___text="Silicon1"/>
+        <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+        <ports ArrayElementSequenceNumber="4" PROPERTY_ARRAYBASE_DISPLAYASTABLE="0" PROPERTY_ARRAYBASE_MEMBERNAMEPROPERTIES="2" PROPERTY_ARRAYBASE_MEMBERSHOWINDEX="0" PROPERTY_ARRAYBASE_MOVEMEMBERS="0">
+          <e1 ___activeMember="patchOnModelingBoundary " ___displayName="Rgate1" isArrayElement="true">
+            <patchOnModelingBoundary isEnable="true">
+              <coordinates isEnable="true" showHeader="true">
+                <x ___expression="25" ___lastKnownValue="25.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="20" ___lastKnownValue="20.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="57" ___lastKnownValue="57.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </coordinates>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </patchOnModelingBoundary>
+            <materialInterface isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <location ___activeMember="boundingBox " showHeader="true">
+                <boxAtLayoutPin isEnable="true">
+                  <pinName ___text=""/>
+                  <mask ___text=""/>
+                  <cellname ___activeMember="allCells"/>
+                  <zElevation ___activeMember="highest ">
+                    <highest isEnable="true"/>
+                    <specific isEnable="true">
+                      <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </specific>
+                  </zElevation>
+                  <boxSize isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </boxSize>
+                  <previousName ___text="" uiHidden="true"/>
+                </boxAtLayoutPin>
+                <boundingBox isEnable="true">
+                  <corner1 isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </corner1>
+                  <corner2 isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </corner2>
+                </boundingBox>
+                <anchorPoint isEnable="true">
+                  <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                </anchorPoint>
+                <overlappingMask isEnable="true">
+                  <mask ___text=""/>
+                </overlappingMask>
+              </location>
+              <side3Material VersionNumber="11.0.0.0" uiHidden="true" uiHideChildNodes="true"/>
+              <side2MaxThickness ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </materialInterface>
+            <cutPlane isEnable="true">
+              <coordinates isEnable="true" showHeader="true">
+                <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </coordinates>
+              <normal isEnable="true" showHeader="true">
+                <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </normal>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </cutPlane>
+          </e1>
+          <e2 ___activeMember="patchOnModelingBoundary " ___displayName="Rgate2" isArrayElement="true">
+            <patchOnModelingBoundary isEnable="true">
+              <coordinates isEnable="true" showHeader="true">
+                <x ___expression="25" ___lastKnownValue="25.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="40" ___lastKnownValue="40.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="57" ___lastKnownValue="57.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </coordinates>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </patchOnModelingBoundary>
+            <materialInterface isEnable="true">
+              <materials VersionNumber="11.0.0.0" uiHideChildNodes="true"/>
+              <location ___activeMember="boundingBox " showHeader="true">
+                <boxAtLayoutPin isEnable="true">
+                  <pinName ___text=""/>
+                  <mask ___text=""/>
+                  <cellname ___activeMember="allCells"/>
+                  <zElevation ___activeMember="highest ">
+                    <highest isEnable="true"/>
+                    <specific isEnable="true">
+                      <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    </specific>
+                  </zElevation>
+                  <boxSize isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </boxSize>
+                  <previousName ___text="" uiHidden="true"/>
+                </boxAtLayoutPin>
+                <boundingBox isEnable="true">
+                  <corner1 isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </corner1>
+                  <corner2 isEnable="true" showHeader="true">
+                    <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                    <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </corner2>
+                </boundingBox>
+                <anchorPoint isEnable="true">
+                  <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                </anchorPoint>
+                <overlappingMask isEnable="true">
+                  <mask ___text=""/>
+                </overlappingMask>
+              </location>
+              <side3Material VersionNumber="11.0.0.0" uiHidden="true" uiHideChildNodes="true"/>
+              <side2MaxThickness ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit" uiHidden="true"/>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </materialInterface>
+            <cutPlane isEnable="true">
+              <coordinates isEnable="true" showHeader="true">
+                <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </coordinates>
+              <normal isEnable="true" showHeader="true">
+                <x ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <y ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                <z ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              </normal>
+              <namePortsTypeSpacer ___text="" extraSpace="true"/>
+            </cutPlane>
+          </e2>
+        </ports>
+        <stopBuildWhenPortInvalid ___expression="true"/>
+      </___Properties>
+    </___Item>
+    <___Item UUID="3b105704-2726-48b2-8742-0f9e41da1287" ___Name="Electrical Measurement1" ___Type="ElectricalMeasurement" stepDisabled="true">
+      <___Properties VersionNumber="11.0.0.0" isEnable="true">
+        <stepName ___text="Extract Capacitance (Requires Electrical Analysis)" isExpanded="true"/>
+        <stepAction ___text="Capacitance Electrical Analysis (Electrical Analysis)" icon=":/icons/ElectricalMeasurement" isExpanded="true" readonly="true" stepType="ElectricalMeasurement"/>
+        <skipMask isEnable="false" isExpanded="true" showHeader="true">
+          <name ___text="" isExpanded="true" readonly="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <runAfterStep UUID="f34e7683-9285-4c6c-aec4-980949cd70d8" ___text="6.5: Remove resist" isExpanded="true" uiCustom="ProcessStepAnchor"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true" isExpanded="true"/>
+        <wafer VersionNumber="11.0.0.0" ___text="Silicon1" inputWafer="true" isExpanded="true" restartableWafer="true"/>
+        <uiWaferSetupSpacer ___text="" extraSpace="true" isExpanded="true"/>
+        <type ___activeMember="resistance " isExpanded="true">
+          <capacitance isEnable="true" isExpanded="true">
+            <namedNetsType ___activeMember="solveAll ">
+              <solveAll isEnable="true"/>
+              <solveSpecified isEnable="true">
+                <netsToInclude uiHideChildNodes="true"/>
+              </solveSpecified>
+            </namedNetsType>
+            <unnamedNetsType ___activeMember="solve"/>
+            <usenamedLayersType ___expression="false"/>
+          </capacitance>
+          <resistance isEnable="true">
+            <measurements ArrayElementSequenceNumber="1" PROPERTY_ARRAYBASE_DISPLAYASTABLE="0" PROPERTY_ARRAYBASE_MEMBERSHOWINDEX="1" PROPERTY_ARRAYBASE_MOVEMEMBERS="0">
+              <e1 ___displayName="Resistance" isArrayElement="true" isEnable="true">
+                <startPort ___text="Rgate1"/>
+                <endPort ___text="Rgate2"/>
+              </e1>
+            </measurements>
+          </resistance>
+        </type>
+        <uiSpacer1 ___text="" extraSpace="true"/>
+        <parameterBaseName ___text="resistance" isExpanded="true"/>
+        <uiSpacer2 ___text="" extraSpace="true"/>
+        <save3DData ___expression="true"/>
+        <uiSpacer3 ___text="" extraSpace="true"/>
+        <advanced isEnable="false" showHeader="true">
+          <acceleration ___expression="0" ___lastKnownValue="0.0" ___unitConversionExpr="" ___unitName="nounit" readonly="true" uiHidden="true"/>
+          <linearSolverTolerance ___expression="1.0e-6" ___lastKnownValue="1e-06" ___unitConversionExpr="" ___unitName="nounit" readonly="true"/>
+          <tolerance ___expression="1.0e-3" ___lastKnownValue="0.001" ___unitConversionExpr="" ___unitName="nounit" readonly="true" uiHidden="true"/>
+          <useCoarsening ___expression="true" readonly="true"/>
+        </advanced>
+      </___Properties>
+    </___Item>
+  </___DocumentTree>
+
+</___Document>

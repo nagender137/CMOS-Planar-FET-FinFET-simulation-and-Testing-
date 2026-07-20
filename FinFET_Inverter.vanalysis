@@ -1,0 +1,235 @@
+
+<___Document DocApp="SEMulator3D" DocBuildTag="" DocType="vanalysis" DocVersion="11.0.0.0">
+
+  <___Properties isEnable="true">
+    <masterPassword ___text=""/>
+    <filePassword ___text="" readonly="true"/>
+    <fileAccessRestriction ___text="" readonly="true"/>
+    <processFile RelativeFileName="./FinFET_Inverter.vproc" ___text="D:/SEMulator 3D/Assignment11_FinFET_Inverter/FinFET_Inverter.vproc"/>
+  </___Properties>
+
+  <___CustomConfiguration/>
+
+  <___Parser UUID="4ee60195-4478-44dd-ab13-d4c0e6e0ccdb" ___Name="Variables" ___Type="VariableRoot" isExpanded="true">
+    <___Item Automatic="true" UUID="0fcc66ee-89ee-4113-a4e8-9ef4fd2d9efd" ___Name="Auto" ___Type="VariableGroup">
+      <___Item Automatic="true" UUID="053dc71e-bdcc-4298-8a80-e973ec734a03" ___Name="ModelResolution" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="f545bbfe-ca74-4242-892f-f4084a55cced" ___Name="inverter_capacitance_GND" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="e6ba733a-1083-481b-9e55-eb16d2c9228d" ___Name="inverter_capacitance_GND_Inverter_Input" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="32bed315-fbb3-4532-81ff-f1a3b5ee9aa9" ___Name="inverter_capacitance_GND_Inverter_Output" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="dd872e83-371d-4d6b-9399-ecdeda8c4e16" ___Name="inverter_capacitance_GND_VDD" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="32fa7d68-d5cb-46a7-b30b-940b0207b28e" ___Name="inverter_capacitance_Inverter_Input" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="37e54609-69af-48f0-8ad2-8b7a5ad342b5" ___Name="inverter_capacitance_Inverter_Input_GND" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="fc4a1e4a-5d6f-4a27-9ebd-8f1cfcea2a29" ___Name="inverter_capacitance_Inverter_Input_Inverter_Output" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="acb68b7f-af2e-4d59-bae7-39cd06d38485" ___Name="inverter_capacitance_Inverter_Input_VDD" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="0342136a-2941-40fa-bfd9-eca7e32a93e8" ___Name="inverter_capacitance_Inverter_Output" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="fbbec027-e877-4bf6-8796-879152752990" ___Name="inverter_capacitance_Inverter_Output_GND" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="48163489-da40-4118-afb6-3dc1e804a066" ___Name="inverter_capacitance_Inverter_Output_Inverter_Input" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="e73f7e88-0b86-4da9-8635-f3986586293f" ___Name="inverter_capacitance_Inverter_Output_VDD" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="db50487b-73fb-47c8-ab2a-6a82905c0940" ___Name="inverter_capacitance_VDD" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="dc13793e-e672-42d2-90c0-27a0dddf9d0c" ___Name="inverter_capacitance_VDD_GND" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="bd5b8274-0444-4850-9b63-cc806b2eaef6" ___Name="inverter_capacitance_VDD_Inverter_Input" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+      <___Item Automatic="true" UUID="50bb7632-86b5-4025-8f64-69929362ba32" ___Name="inverter_capacitance_VDD_Inverter_Output" ___Type="Variable">
+        <___Properties isEnable="true">
+          <value ___expression="0/0" ___lastKnownValue="-nan(ind).0" ___unitConversionExpr="" ___unitName="nounit"/>
+          <isExposed ___expression="false"/>
+        </___Properties>
+      </___Item>
+    </___Item>
+  </___Parser>
+
+  <___DocumentTree UUID="a17001c2-8f21-4959-aee5-18dd782299bb" ___Name="Analysis Root" ___Type="AnalysisRoot" isExpanded="true">
+    <___Properties isEnable="true">
+      <stepName ___text=""/>
+      <stepAction ___text="" readonly="true"/>
+      <skipMask isEnable="false" showHeader="true">
+        <name ___text="" readonly="true"/>
+      </skipMask>
+      <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+      <uiProcessStepSpacer ___text="" extraSpace="true"/>
+    </___Properties>
+    <___Item UUID="539471db-0837-4ff8-9b05-752164ec9b1f" ___Name="Name Nets1" ___Type="NameNets" isExpanded="true">
+      <___Properties isEnable="true">
+        <stepName ___text="Name Nets  (Requires Electrical Analysis)"/>
+        <stepAction ___text="Name Nets (Electrical Analysis, 3D Export)" icon=":/icons/NameNets" readonly="true" stepType="NameNets"/>
+        <skipMask isEnable="false" showHeader="true">
+          <name ___text="" readonly="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <runAfterStep UUID="fade00cb-7c5a-4c8f-89c9-9cac0b79c3e8" ___text="10.11: Remove resist" uiCustom="ProcessStepAnchor"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true"/>
+        <wafer VersionNumber="11.0.0.0" ___text="Silicon1" inputWafer="true" restartableWafer="true"/>
+        <uiWaferSetupSpacer ___text="" extraSpace="true"/>
+        <netsToClear ___activeMember="none ">
+          <none isEnable="true"/>
+          <all isEnable="true"/>
+          <selected isEnable="true">
+            <netsToRemove PROPERTY_ARRAYBASE_DISPLAYASTABLE="0" PROPERTY_ARRAYBASE_MEMBERNAMEPROPERTIES="0" PROPERTY_ARRAYBASE_MEMBERSHOWINDEX="0" PROPERTY_ARRAYBASE_MOVEMEMBERS="0">
+              <e1 ___displayName="New Row" ___text="" isArrayElement="true"/>
+            </netsToRemove>
+          </selected>
+        </netsToClear>
+        <uiSpacer1 ___text="" extraSpace="true"/>
+        <nets ArrayElementSequenceNumber="1" PROPERTY_ARRAYBASE_DISPLAYASTABLE="0" PROPERTY_ARRAYBASE_MEMBERNAMEPROPERTIES="2" PROPERTY_ARRAYBASE_MEMBERSHOWINDEX="0" PROPERTY_ARRAYBASE_MOVEMEMBERS="0">
+          <e1 NameNet="true" ___displayName="Inverter_Input" isArrayElement="true" isEnable="true">
+            <position isEnable="true" showHeader="true">
+              <x ___expression="43" ___lastKnownValue="43.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <y ___expression="26" ___lastKnownValue="26.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <z ___expression="72" ___lastKnownValue="72.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            </position>
+          </e1>
+          <e2 NameNet="true" ___displayName="Inverter_Output" isArrayElement="true" isEnable="true">
+            <position isEnable="true" showHeader="true">
+              <x ___expression="46" ___lastKnownValue="46.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <y ___expression="50" ___lastKnownValue="50.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <z ___expression="76" ___lastKnownValue="76.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            </position>
+          </e2>
+          <e3 ___displayName="VDD" isArrayElement="true" isEnable="true">
+            <position isEnable="true" showHeader="true">
+              <x ___expression="84" ___lastKnownValue="84.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <y ___expression="2" ___lastKnownValue="2.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <z ___expression="68" ___lastKnownValue="68.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            </position>
+          </e3>
+          <e4 ___displayName="GND" isArrayElement="true" isEnable="true">
+            <position isEnable="true" showHeader="true">
+              <x ___expression="4" ___lastKnownValue="4.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <y ___expression="2" ___lastKnownValue="2.0" ___unitConversionExpr="" ___unitName="nounit"/>
+              <z ___expression="68" ___lastKnownValue="68.0" ___unitConversionExpr="" ___unitName="nounit"/>
+            </position>
+          </e4>
+        </nets>
+      </___Properties>
+    </___Item>
+    <___Item UUID="caf4b97f-4a96-4889-9f77-fcad743118fd" ___Name="Electrical Measurement1" ___Type="ElectricalMeasurement">
+      <___Properties VersionNumber="11.0.0.0" isEnable="true">
+        <stepName ___text="Extract Capacitance (Requires Electrical Analysis)" isExpanded="true"/>
+        <stepAction ___text="Capacitance Electrical Analysis (Electrical Analysis)" icon=":/icons/ElectricalMeasurement" isExpanded="true" readonly="true" stepType="ElectricalMeasurement"/>
+        <skipMask isEnable="false" isExpanded="true" showHeader="true">
+          <name ___text="" isExpanded="true" readonly="true"/>
+        </skipMask>
+        <skipIf ___expression="" ___lastKnownValue="nan.0" ___unitConversionExpr="" ___unitName="nounit"/>
+        <runAfterStep UUID="fade00cb-7c5a-4c8f-89c9-9cac0b79c3e8" ___text="10.11: Remove resist" isExpanded="true" uiCustom="ProcessStepAnchor"/>
+        <uiProcessStepSpacer ___text="" extraSpace="true" isExpanded="true"/>
+        <wafer VersionNumber="11.0.0.0" ___text="Silicon1" inputWafer="true" isExpanded="true" restartableWafer="true"/>
+        <uiWaferSetupSpacer ___text="" extraSpace="true" isExpanded="true"/>
+        <type ___activeMember="capacitance " isExpanded="true">
+          <capacitance isEnable="true" isExpanded="true">
+            <namedNetsType ___activeMember="solveAll ">
+              <solveAll isEnable="true"/>
+              <solveSpecified isEnable="true">
+                <netsToInclude uiHideChildNodes="true">
+                  <_0 UserDefinedName="GND" isEnable="true">
+                    <type ___activeMember="solve"/>
+                    <charge ___expression="0" ___lastKnownValue="0.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </_0>
+                  <_1 UserDefinedName="Inverter_Input" isEnable="true">
+                    <type ___activeMember="solve"/>
+                    <charge ___expression="0" ___lastKnownValue="0.0" ___unitConversionExpr="" ___unitName="nounit"/>
+                  </_1>
+                </netsToInclude>
+              </solveSpecified>
+            </namedNetsType>
+            <unnamedNetsType ___activeMember="solve"/>
+            <usenamedLayersType ___expression="false"/>
+          </capacitance>
+          <resistance isEnable="true">
+            <measurements ArrayElementSequenceNumber="1" PROPERTY_ARRAYBASE_DISPLAYASTABLE="0" PROPERTY_ARRAYBASE_MEMBERSHOWINDEX="1" PROPERTY_ARRAYBASE_MOVEMEMBERS="0"/>
+          </resistance>
+        </type>
+        <uiSpacer1 ___text="" extraSpace="true"/>
+        <parameterBaseName ___text="inverter_capacitance" isExpanded="true"/>
+        <uiSpacer2 ___text="" extraSpace="true"/>
+        <save3DData ___expression="true"/>
+        <uiSpacer3 ___text="" extraSpace="true"/>
+        <advanced isEnable="false" showHeader="true">
+          <acceleration ___expression="0" ___lastKnownValue="0.0" ___unitConversionExpr="" ___unitName="nounit" readonly="true" uiHidden="true"/>
+          <linearSolverTolerance ___expression="1.0e-6" ___lastKnownValue="1e-06" ___unitConversionExpr="" ___unitName="nounit" readonly="true"/>
+          <tolerance ___expression="1.0e-3" ___lastKnownValue="0.001" ___unitConversionExpr="" ___unitName="nounit" readonly="true" uiHidden="true"/>
+          <useCoarsening ___expression="true" readonly="true"/>
+        </advanced>
+      </___Properties>
+    </___Item>
+  </___DocumentTree>
+
+</___Document>
