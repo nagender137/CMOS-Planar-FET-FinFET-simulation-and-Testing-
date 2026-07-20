@@ -52,7 +52,7 @@ CMOS-Planar-FET-FinFET-simulation-and-Testing-/
 - Guided students through simulation-based assignments covering CMOS process modules
 
 ## 🧪 Project 1 — CMOS, Planar FET, FinFET Simulation and Testing
-*24 November 2024 – Present*
+*24 November 2024 – 2026 may*
 
 Objective: To design, simulate, and test CMOS structures including Planar FET and FinFET devices using virtual fabrication tools.
 
